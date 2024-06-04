@@ -4,7 +4,18 @@ using UnityEngine;
 
 public class Vecor3 : MonoBehaviour
 {
+<<<<<<< HEAD
 
+=======
+    /*
+     * 
+     * 
+     * 
+     * aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+     * 
+     * 
+     */
+>>>>>>> parent of 63a19ba (aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
     //playerˆÊ’u‚Æ•ûŒü
     Vector3 playerPosition;
     //player•ûŒü‚ð•\‚·
