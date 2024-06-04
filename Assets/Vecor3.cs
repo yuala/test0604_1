@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Vecor3 : MonoBehaviour
 {
+<<<<<<< HEAD
     /*
      * 
      * 
@@ -12,6 +13,9 @@ public class Vecor3 : MonoBehaviour
      * 
      * 
      */
+=======
+
+>>>>>>> d1d99ed3e3bbf5854d57d2a56c740cba0051dce4
     //playerˆÊ’u‚Æ•ûŒü
     Vector3 playerPosition;
     //player•ûŒü‚ð•\‚·
